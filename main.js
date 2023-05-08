@@ -4,7 +4,7 @@ window.addEventListener("load",function(){
     preloaderWrapper.classList.add('fade-out-animation');
 });
 
-//go to top
+//go to  top
 let mybutton = document.getElementById("myBtn");
 window.onscroll = function() {scrollFunction()};
 function scrollFunction() {
