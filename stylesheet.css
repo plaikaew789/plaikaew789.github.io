@@ -139,10 +139,10 @@ ul.paragraph-forum {
     content: '';
     position: absolute;
     width: 6px;
-    background-color:antiquewhite;
+    background-color:rgb(255, 255, 255);
     top: 0;
     bottom: 0;
-    left: 50%;
+    left: 25%;
     margin-left: -3px;
   }
   
@@ -175,7 +175,7 @@ ul.paragraph-forum {
   
   /* Place the container to the right */
   .right {
-    left: 50%;
+    left: 25%;
   }
   
   /* Add arrows to the left container (pointing right) */
@@ -213,9 +213,9 @@ ul.paragraph-forum {
   
   /* The actual content */
   .content {
-    padding: 20px 30px;
+    padding: 30px 30px;
     background-color:rgba(238, 108, 108, 0.753);
-    position: relative;
+    position:relative;
     border-radius: 10px;
   }
   
@@ -224,13 +224,6 @@ ul.paragraph-forum {
   /* Place the timelime to the left */
     .timeline::after {
       left: 31px;
-    }
-  
-  /* Full-width containers */
-    .container {
-      width: 100%;
-      padding-left: 70px;
-      padding-right: 25px;
     }
   
   /* Make sure that all arrows are pointing leftwards */
