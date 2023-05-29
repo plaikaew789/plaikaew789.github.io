@@ -10,15 +10,15 @@ h1{
     color: gold;
 }
 h2 {
-    color: aqua;
+    color: rgb(5, 255, 213);
     text-align: center;
-    text-shadow: 2px 2px 4px #ff0000;
+    text-shadow: 4px 4px 4px #ff5100;
 }
 h3 {
   color:darkslategray;
   font-weight: bold;
   text-align: center;
-  text-shadow: 2px 2px 4px #00eeff;
+  text-shadow: 4px 4px 4px #00eeff;
 }
 div.space {
     height: 100px;
